@@ -16,6 +16,8 @@ def setup_cli():
     parser = argparse.ArgumentParser()
     parser.add_argument('--debug', action='store_true',
                         help='Enable extra debugging output')
+    parser.add_argument('--seed', default=0,
+                        help='Set the random number seed')
     args = parser.parse_args()
 
     return args
@@ -30,7 +32,7 @@ def main():
     logging.basicConfig(level=level,
                         stream=sys.stdout,
                         format='%(levelname)s: %(message)s')
-    seed(0)
+    seed(args.seed)
 
     logging.info("Welcome to the [not-so] random number calculator!")
 
