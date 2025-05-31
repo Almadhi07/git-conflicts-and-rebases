@@ -42,7 +42,7 @@ def main():
 
     logging.info("Welcome to the [not-so] random number calculator!")
 
-    op = randrange(4)
+    op = randrange(6)
     if op == 0:
         logging.debug("Adding!")
         result = add()
@@ -55,6 +55,12 @@ def main():
     elif op == 3:
         logging.debug("Multiplying!")
         result = multiply()
+    elif op == 4:
+        logging.debug("Adding then subtracting!")
+        result = add() + subtract()
+    elif op == 5:
+        logging.debug("Subtracting then adding!")
+        result = subtract() - add()
 
     logging.info(f"The result is {result}")
 
