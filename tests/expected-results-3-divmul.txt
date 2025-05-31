@@ -1,0 +1,3 @@
+Welcome to the [not-so] random number calculator!
+Multiplying!
+The result is 706936

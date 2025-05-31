@@ -1,0 +1,300 @@
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 444
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 112
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 320
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 935
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -524
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -897
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1101
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1618
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 118
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 427
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -61
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1342
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 950
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1262
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 810
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -146
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 674
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 172
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -223
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 205
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1104
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 250
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1516
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1443
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1189
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 323
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -28
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -355
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 448
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1783
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 477
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -520
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 536
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -245
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 802
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -381
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 926
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -357
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -644
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1401
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1163
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -182
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -62
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -742
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1296
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 322
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -317
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -529
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 726
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -18
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1547
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -183
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1072
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1469
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1253
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 113
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 60
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 264
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -359
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 558
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -359
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -648
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 436
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 474
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 361
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 669
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1022
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 68
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1123
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 101
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1214
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -353
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 831
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 491
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -459
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 601
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -66
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1095
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -326
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1529
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1398
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 783
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1311
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 540
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1135
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -655
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 81
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1538
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 672
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -278
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1112
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -694
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 359
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1069
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 691
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 336
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1142
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -533
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 162
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -306

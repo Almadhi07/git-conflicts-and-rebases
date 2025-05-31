@@ -1,0 +1,300 @@
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 22005
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 1.1647058823529413
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 165369
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 317
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.344180225281602
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 79218
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -491
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -12
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 58
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 2.881057268722467
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.8950086058519794
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 156
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 950
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1262
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 810
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.762987012987013
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -450
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 1.86
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 516824
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 205
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 782
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 79239
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -466
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1443
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1189
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 83810
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 379260
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.5260347129506008
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 374
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -57
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 2.207594936708861
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 227249
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 413985
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.4262295081967213
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -782
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 138852
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 926
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 266800
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 84672
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 419
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 611
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 301968
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 496064
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 124503
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -432
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 446048
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.6649048625792812
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.03467153284671533
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 726
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.9690721649484536
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1547
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 425250
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1072
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -15
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1253
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 188214
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 777024
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 1.5076923076923077
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 78336
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 26.363636363636363
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 76350
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 82513
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 560876
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 111112
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -327
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 12.946428571428571
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -928
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 112413
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 195
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 1.12998712998713
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 186
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 293178
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 831
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -373
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 46870
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 13062
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.029411764705882353
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1095
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.27876106194690264
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1529
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -94
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -143
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 411
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 36
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1135
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.32124352331606215
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 5.5
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 1538
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 672
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 357675
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -582
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 265232
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is 357
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -301
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Multiplying!
+INFO: The result is 59136
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -304
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -478
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.44421272158498437
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Adding!
+INFO: The result is 162
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Dividing!
+INFO: The result is 0.4908485856905158

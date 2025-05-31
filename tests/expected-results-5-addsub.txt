@@ -1,0 +1,3 @@
+Welcome to the [not-so] random number calculator!
+Subtracting then adding!
+The result is -606

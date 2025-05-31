@@ -1,0 +1,2 @@
+INFO: Welcome to the [not-so] random number calculator!
+INFO: The result is -606

@@ -1,0 +1,3 @@
+INFO: Welcome to the [not-so] random number calculator!
+DEBUG: Subtracting!
+INFO: The result is -135

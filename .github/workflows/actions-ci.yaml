@@ -1,0 +1,22 @@
+name: CI tests
+
+on:
+  - pull_request
+
+jobs:
+  check-stdout:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Git repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+
+      - name: Run the tests
+        run: |
+          if [[ -n "$(which python3)" ]]; then
+              python3 tests/tester.py
+          else
+              python tests/tester.py
+          fi
