@@ -12,6 +12,12 @@ def add():
 def subtract():
     return randrange(1000) - randrange(1000)
 
+def divide():
+    return randrange(1000) / randrange(1000)
+
+def multiply():
+    return randrange(1000) * randrange(1000)
+
 def setup_cli():
     parser = argparse.ArgumentParser()
     parser.add_argument('--debug', action='store_true',
@@ -36,13 +42,25 @@ def main():
 
     logging.info("Welcome to the [not-so] random number calculator!")
 
-    op = randrange(2)
+    op = randrange(6)
     if op == 0:
         logging.debug("Adding!")
         result = add()
     elif op == 1:
         logging.debug("Subtracting!")
         result = subtract()
+    elif op == 2:
+        logging.debug("Dividing!")
+        result = divide()
+    elif op == 3:
+        logging.debug("Multiplying!")
+        result = multiply()
+    elif op == 4:
+        logging.debug("Adding then subtracting!")
+        result = add() + subtract()
+    elif op == 5:
+        logging.debug("Subtracting then adding!")
+        result = subtract() - add()
 
     logging.info(f"The result is {result}")
 
