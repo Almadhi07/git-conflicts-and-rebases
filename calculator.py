@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+import sys
+import logging
+import argparse
+
 from random import seed, randrange
 
 def add():
@@ -14,26 +18,45 @@ def divide():
 def multiply():
     return randrange(1000) * randrange(1000)
 
-def main():
-    seed(0)
+def setup_cli():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--debug', action='store_true',
+                        help='Enable extra debugging output')
+    parser.add_argument('--seed', default=0,
+                        help='Set the random number seed')
+    args = parser.parse_args()
 
-    print("Welcome to the [not-so] random number calculator!")
+    return args
+
+def main():
+    args = setup_cli()
+
+    level = logging.INFO
+    if args.debug:
+        level = logging.DEBUG
+
+    logging.basicConfig(level=level,
+                        stream=sys.stdout,
+                        format='%(levelname)s: %(message)s')
+    seed(args.seed)
+
+    logging.info("Welcome to the [not-so] random number calculator!")
 
     op = randrange(4)
     if op == 0:
-        print("Adding!")
+        logging.debug("Adding!")
         result = add()
     elif op == 1:
-        print("Subtracting!")
+        logging.debug("Subtracting!")
         result = subtract()
     elif op == 2:
-        print("Dividing!")
+        logging.debug("Dividing!")
         result = divide()
     elif op == 3:
-        print("Multiplying!")
+        logging.debug("Multiplying!")
         result = multiply()
 
-    print(f"The result is {result}")
+    logging.info(f"The result is {result}")
 
 if __name__ == "__main__":
     main()
